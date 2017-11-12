@@ -32,28 +32,28 @@
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510462057097,
             "changeTime": 1510462057097,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1510461479807,
-            "changeTime": 1510461479807,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1510462401122,
+            "changeTime": 1510462401122,
+            "isWorkspace": false,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -268,14 +268,14 @@
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 184,
-            "modifiedTime": 1510461700101,
-            "changeTime": 1510461700101,
-            "contentHash": "edf859fb29db77c4199c6aa7891331c7549eb4e9",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 214,
+            "modifiedTime": 1510462721221,
+            "changeTime": 1510462721221,
+            "contentHash": "0dc324be1bf921f88a74afda7d82764c83d3b58b"
         }
     ],
     [
@@ -619,196 +619,287 @@
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1510462057101,
             "changeTime": 1510462057101,
-            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4"
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510462057323,
             "changeTime": 1510462057323,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510462057137,
             "changeTime": 1510462057137,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1510462057121,
             "changeTime": 1510462057121,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1510462057124,
             "changeTime": 1510462057124,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2586,
             "modifiedTime": 1510462057129,
             "changeTime": 1510462057129,
-            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2"
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1510462057135,
             "changeTime": 1510462057135,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1510462057138,
             "changeTime": 1510462057138,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 389832,
             "modifiedTime": 1510462057178,
             "changeTime": 1510462057178,
-            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3"
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 741401,
             "modifiedTime": 1510462057299,
             "changeTime": 1510462057299,
-            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99"
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14061,
             "modifiedTime": 1510462057303,
             "changeTime": 1510462057303,
-            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397"
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 137208,
             "modifiedTime": 1510462057311,
             "changeTime": 1510462057311,
-            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6"
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:/Users/roberwil.ORADEV/Documents/dev/Dreamforce2017/dx/DXProjects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186247,
             "modifiedTime": 1510462057325,
             "changeTime": 1510462057325,
-            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448"
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510462057323,
             "changeTime": 1510462057323,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510462057117,
             "changeTime": 1510462057117,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1510462401137,
+            "changeTime": 1510462401137,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 268,
+            "modifiedTime": 1510462437271,
+            "changeTime": 1510462437271,
+            "contentHash": "efcce9054b2e2a14e56ee2277f203a4e455aa406"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1510462401127,
+            "changeTime": 1510462401127,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1510462677606,
+            "changeTime": 1510462677606,
+            "contentHash": "23285dbe6029b9b808d37668a129fe3778b421c8"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 629,
+            "modifiedTime": 1510462645870,
+            "changeTime": 1510462645870,
+            "contentHash": "07d73a7cdfc2601809b2a03f8e24db9639164f24"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1510462401133,
+            "changeTime": 1510462401133,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\roberwil.ORADEV\\Documents\\dev\\Dreamforce2017\\dx\\DXProjects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1510462401137,
+            "changeTime": 1510462401137,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]

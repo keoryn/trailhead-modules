@@ -8,9 +8,13 @@
                     "v.accounts",
                     a.getReturnValue()
                 );
+                var event = $A.get("e.c:AccountsLoaded");
+                event.setParams({
+                    "accounts": a.getReturnValue()
+                });
+                event.fire();
             }
         );
-        $A.enqueueAction(action);
+    $A.enqueueAction(action);
     }
 })
-    
